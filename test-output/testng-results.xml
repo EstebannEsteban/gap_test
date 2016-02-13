@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Testsgap" duration-ms="44839" started-at="2016-02-13T20:55:12Z" finished-at="2016-02-13T20:55:57Z">
+    <groups>
+      <group name="Testsgap">
+        <method signature="IndependentTests.CreateNewUser()[pri:0, instance:com.evercoding.vacations.tests.IndependentTests@7cf10a6f]" name="CreateNewUser" class="com.evercoding.vacations.tests.IndependentTests"/>
+        <method signature="IndependentTests.DeleteEmployee()[pri:0, instance:com.evercoding.vacations.tests.IndependentTests@7cf10a6f]" name="DeleteEmployee" class="com.evercoding.vacations.tests.IndependentTests"/>
+        <method signature="IndependentTests.FindEmployee()[pri:0, instance:com.evercoding.vacations.tests.IndependentTests@7cf10a6f]" name="FindEmployee" class="com.evercoding.vacations.tests.IndependentTests"/>
+        <method signature="IndependentTests.testLoginPage()[pri:0, instance:com.evercoding.vacations.tests.IndependentTests@7cf10a6f]" name="testLoginPage" class="com.evercoding.vacations.tests.IndependentTests"/>
+      </group> <!-- Testsgap -->
+    </groups>
+    <test name="Testsgap" duration-ms="44839" started-at="2016-02-13T20:55:12Z" finished-at="2016-02-13T20:55:57Z">
+      <class name="com.evercoding.vacations.tests.IndependentTests">
+        <test-method status="PASS" signature="LauncBrowser()[pri:0, instance:com.evercoding.vacations.tests.IndependentTests@7cf10a6f]" name="LauncBrowser" is-config="true" duration-ms="5623" started-at="2016-02-13T15:55:12Z" finished-at="2016-02-13T15:55:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LauncBrowser -->
+        <test-method status="PASS" signature="testLoginPage()[pri:0, instance:com.evercoding.vacations.tests.IndependentTests@7cf10a6f]" name="testLoginPage" duration-ms="3778" started-at="2016-02-13T15:55:18Z" finished-at="2016-02-13T15:55:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginPage -->
+        <test-method status="PASS" signature="after()[pri:0, instance:com.evercoding.vacations.tests.IndependentTests@7cf10a6f]" name="after" is-config="true" duration-ms="253" started-at="2016-02-13T15:55:21Z" finished-at="2016-02-13T15:55:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="LauncBrowser()[pri:0, instance:com.evercoding.vacations.tests.IndependentTests@7cf10a6f]" name="LauncBrowser" is-config="true" duration-ms="4747" started-at="2016-02-13T15:55:22Z" finished-at="2016-02-13T15:55:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LauncBrowser -->
+        <test-method status="PASS" signature="CreateNewUser()[pri:0, instance:com.evercoding.vacations.tests.IndependentTests@7cf10a6f]" name="CreateNewUser" duration-ms="7868" started-at="2016-02-13T15:55:26Z" finished-at="2016-02-13T15:55:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateNewUser -->
+        <test-method status="PASS" signature="after()[pri:0, instance:com.evercoding.vacations.tests.IndependentTests@7cf10a6f]" name="after" is-config="true" duration-ms="160" started-at="2016-02-13T15:55:34Z" finished-at="2016-02-13T15:55:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="LauncBrowser()[pri:0, instance:com.evercoding.vacations.tests.IndependentTests@7cf10a6f]" name="LauncBrowser" is-config="true" duration-ms="3953" started-at="2016-02-13T15:55:34Z" finished-at="2016-02-13T15:55:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LauncBrowser -->
+        <test-method status="PASS" signature="FindEmployee()[pri:0, instance:com.evercoding.vacations.tests.IndependentTests@7cf10a6f]" name="FindEmployee" duration-ms="3643" started-at="2016-02-13T15:55:38Z" finished-at="2016-02-13T15:55:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FindEmployee -->
+        <test-method status="PASS" signature="after()[pri:0, instance:com.evercoding.vacations.tests.IndependentTests@7cf10a6f]" name="after" is-config="true" duration-ms="155" started-at="2016-02-13T15:55:42Z" finished-at="2016-02-13T15:55:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="LauncBrowser()[pri:0, instance:com.evercoding.vacations.tests.IndependentTests@7cf10a6f]" name="LauncBrowser" is-config="true" duration-ms="4428" started-at="2016-02-13T15:55:42Z" finished-at="2016-02-13T15:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LauncBrowser -->
+        <test-method status="PASS" signature="DeleteEmployee()[pri:0, instance:com.evercoding.vacations.tests.IndependentTests@7cf10a6f]" name="DeleteEmployee" duration-ms="10062" started-at="2016-02-13T15:55:47Z" finished-at="2016-02-13T15:55:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteEmployee -->
+        <test-method status="PASS" signature="after()[pri:0, instance:com.evercoding.vacations.tests.IndependentTests@7cf10a6f]" name="after" is-config="true" duration-ms="150" started-at="2016-02-13T15:55:57Z" finished-at="2016-02-13T15:55:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- com.evercoding.vacations.tests.IndependentTests -->
+    </test> <!-- Testsgap -->
+  </suite> <!-- Testsgap -->
+</testng-results>

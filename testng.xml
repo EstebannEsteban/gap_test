@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+  
+<suite name="Testsgap" verbose="3" parallel="none" >
+   
+   <test name="Testsgap" >
+  
+    <classes>
+       <class name="com.evercoding.vacations.tests.IndependentTests" />
+    </classes>
+  </test> 
+
+</suite>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.evercoding.vacations.AppTest" duration-ms="4" started-at="2016-02-13T15:37:06Z" finished-at="2016-02-13T15:37:06Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="4" started-at="2016-02-13T15:37:06Z" finished-at="2016-02-13T15:37:06Z">
+    </test> <!-- Command line test -->
+  </suite> <!-- com.evercoding.vacations.AppTest -->
+</testng-results>
